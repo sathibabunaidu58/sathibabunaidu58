@@ -2,7 +2,7 @@
 <h3 align="center">A passionat Backend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathibabunaidu58&label=Profile%20views&color=0e75b6&style=flat" alt="sathibabunaidu58" /> </p>
-  . 📝 I’m currently Working on this Project : http://sathi123456.pythonanywhere.com/
+ -  📝 I’m currently Working on this Project : http://sathi123456.pythonanywhere.com/
 
 - 🌱 I’m currently learning **Python, Django, Flask, SQL, HTML, CSS**
 
