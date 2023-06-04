@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathibabunaidu58&label=Profile%20views&color=0e75b6&style=flat" alt="sathibabunaidu58" /> </p>
  -  📝 I’m currently Working on this Project : http://sathi123456.pythonanywhere.com/
 
-- 🌱 I’m currently learning **Python, Django, Flask, SQL, HTML, CSS**
+- 🌱 I’m currently learning **Python, Flask, MongoDB, SQL, HTML, CSS**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
