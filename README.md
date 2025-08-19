@@ -1,36 +1,55 @@
-<h1 align="center">Hi 👋, I'm sathibabu</h1>
-<h3 align="center">Junior Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Sathibabu Gurrala</h1>
+<h3 align="center">Lead Software Engineer · GenAI & Backend (Python)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathibabunaidu58&label=Profile%20views&color=0e75b6&style=flat" alt="sathibabunaidu58" /> </p>
- -  📝 I’m currently Working on this Project : http://sathi123456.pythonanywhere.com/
-
-- 🌱 I’m Having Knowledge on **Python, Flask, MongoDB, SQL, HTML, CSS**
-
-- 🤹‍♀️ I'm having Theory KNowledge on **Data Structures and Algorithms**
-                                     **Operating Systems (OS)**
-                                     **Object-Oriented Programming (OOP)**
-                                     **Database Management Systems (DBMS)**
-                                     **Computer Networks (CN))**
-                                     **System Design**
-
-- 👯 I’m looking to collaborate on **Python Projects**
-
-- 💬 Ask me about **Anything You want**
-
-- 📫 How to reach me **Sathibabunaidu58@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sathi-babu-gurrala-754606118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathi-babu-gurrala-754606118/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sathibabunaidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sathibabunaidu" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100007923304582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007923304582" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sathibabu_gurrala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sathibabu_gurrala/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uctc6jwfoik1vtkjv3wis76q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctc6jwfoik1vtkjv3wis76q" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sathibabu_gurrala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sathibabu_gurrala/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/dtTEJkFA3Z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/dtTEJkFA3Z" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sathi-babu-gurrala-754606118/">LinkedIn</a> •
+  <a href="https://github.com/sathibabunaidu58">GitHub</a> •
+  <a href="https://leetcode.com/sathibabu_gurrala/">LeetCode</a> •
+  <a href="https://www.kaggle.com/sathibabunaidu">Kaggle</a> •
+  <a href="mailto:sathibabugurrala123@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathibabunaidu58&show_icons=true&locale=en&layout=compact" alt="sathibabunaidu58" /></p>
+### 👨‍💻 About me
+- Building **GenAI-powered backends** with Python (**FastAPI**, **Flask**) and **agent toolchains** (**MCP**, **FastMCP**, **MCP-Agent**, **CrewAI/AutoGen**).  
+- Provider-agnostic LLM experience: **Azure OpenAI**, **DeepSeek**, **Ollama** (local).  
+- Retrieval & grounding with **Weaviate** (RAG), production orchestration with **asyncio** and **Temporal**, data layer on **MongoDB/PyMongo**.
+
+### 🚀 Highlights
+- **Saira AI Orchestrator** — agentic orchestration for logistics (MCP/FastMCP, asyncio + Temporal, Weaviate RAG, Azure OpenAI/DeepSeek/Ollama).
+- **Teams Bot for Data Access** — natural-language queries to **MongoDB/BigQuery** via Azure OpenAI with RBAC, audit logs, rate limiting.
+- **Optiplan Stacking (3D Bin Packing)** — packing constraints (CBM/weight/orientation/stack rules) + 3D visualization; improved fill rate and loading time.
+
+---
+
+### 🧰 Tech Stack
+**Language:** Python  
+**APIs:** FastAPI, Flask  
+**Agents/Tools:** MCP, FastMCP, MCP-Agent, CrewAI/AutoGen  
+**LLMs:** Azure OpenAI, DeepSeek, Ollama (local)  
+**RAG:** Weaviate (embeddings, hybrid search)  
+**Async/Orchestration:** asyncio, Temporal, cron/lockrun  
+**Data:** pandas, NumPy; file parsing/validation; BigQuery (API-based read)  
+**DB:** MongoDB (schema design, indexing, PyMongo)  
+**Infra:** AWS (boto3), Linux, Docker, logging/observability, Git
+
+---
+
+### 🤝 Collaboration
+- Open to collaborate on **Python + GenAI agent tools**, **LLM apps**, and **backend reliability/observability**.
+
+### 📫 Contact
+- **Email:** <sathibabugurrala123@gmail.com>  
+- **LinkedIn:** <https://www.linkedin.com/in/sathi-babu-gurrala-754606118/>
+
+---
+
+<!-- Optional: GitHub stats cards -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sathibabunaidu58&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathibabunaidu58&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
